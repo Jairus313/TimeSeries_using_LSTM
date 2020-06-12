@@ -23,3 +23,12 @@ Data consist of two files:
 ---
 
  ####  Here I have implemeted RNN with LSTM with loss value lesser than 0.03 while training and RMSE value 122.90 on validation split.
+ 
+  #### Loss Function:
+  <img src="loss_func.png">
+ 
+  #### Prediction Graph:
+  - Blue : Actual Value
+  - Orange : Prediction on Training sets
+  - Green : Prediction on Validation sets
+ <img src="prediction.png">
